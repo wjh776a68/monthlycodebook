@@ -1,0 +1,45 @@
+<resources>
+
+    <!-- Base application theme. -->
+    <style name="AppTheme" parent="Theme.AppCompat.Light.DarkActionBar">
+        <!-- Customize your theme here. -->
+        <item name="colorPrimary">@color/colorPrimary</item>
+        <item name="colorPrimaryDark">@color/colorPrimaryDark</item>
+        <item name="colorAccent">@color/colorAccent</item>
+
+    </style>
+
+  <!--  <style name="AppTheme" parent="Theme.AppCompat.DayNight.DarkActionBar">
+     <item name="android:textColor">@color/colorFont</item>
+
+        <item name="android:textColorHint">@color/colorFontHint</item>
+        <item name="colorPrimary">@color/colorPrimary</item>
+        <item name="colorPrimaryDark">@color/colorPrimaryDark</item>
+        <item name="colorAccent">@color/colorAccent</item>
+        <item name="android:textColor">@color/colorFont</item>
+
+        <item name="android:textColorHint">@color/colorFontHint</item>
+    </style>
+
+
+    <style name="AppTheme_dark" parent="Theme.AppCompat.DayNight.DarkActionBar">
+        <item name="colorPrimary">@color/colorPrimary_dark</item>
+        <item name="colorPrimaryDark">@color/colorPrimaryDark_dark</item>
+        <item name="colorAccent">@color/colorAccent_dark</item>
+        <item name="android:textColor">@color/colorFont_dark</item>
+        <item name="android:textColorHint">@color/colorFontHint_dark</item>
+        <item name="android:windowBackground">@color/colorPrimary_dark</item>
+        <item name="android:textColorPrimary">@color/colorFont_dark</item>
+        <item name="editTextColor">@color/colorFont_dark</item>
+    </style>-->
+
+
+    <style name="AppTheme.NoActionBar">
+        <item name="windowActionBar">false</item>
+        <item name="windowNoTitle">true</item>
+    </style>
+
+
+    <style name="AppTheme.PopupOverlay" parent="ThemeOverlay.AppCompat.Light" />
+
+</resources>

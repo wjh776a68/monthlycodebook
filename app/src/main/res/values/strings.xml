@@ -1,0 +1,42 @@
+<resources>
+    <string name="app_name">月度密码本</string>
+    <string name="action_settings">保存</string>
+    <string name="action_nextsettings">查看本月密码</string>
+    <string name="tutorial_text">使用帮助：\n 1. 用户口令为一串可以自定义的字符串。 \n 2. 事物名称为你想要用于设置密码或解锁的设备或网站名称，例如baidu或weibo。\n3. 请注意本软件每月开始都会自动采用新的字符组合，如需查看其他月份的密码，请点击下方的按钮以切换视图。</string>
+    <string name="devicename">网站名称</string>
+    <string name="passwordview">密码将显示在这</string>
+    <string name="userkey">用户口令</string>
+    <string name="warning">"事物名称一栏不应为空，详情见使用帮助"</string>
+    <string name="list_navigation">密码列表</string>
+    <string name="add_navigation">添加密码</string>
+    <string name="settings_navigation">设置</string>
+    <string name="passwordupdated_header">您的密码已进行月度更新\n之前的密码为</string>
+    <string name="passwordupdated_middle">本月，您的新月度密码为</string>
+    <string name="passwordupdated_footer">点击继续以确认更改</string>
+    <string name="more">更多</string>
+    <string name="delete">删除</string>
+    <string name="about">关于</string>
+    <string name="importpasswords">导入密码</string>
+    <string name="exportpasswords">导出密码</string>
+    <string name="appversion">Version: 1.1.0</string>
+    <string name="LastTimeUsed">最后使用时间:   </string>
+    <string name="passwordsview">查看密码</string>
+    <string name="currentmonth">本月</string>
+    <string name="previousmonth">上个月</string>
+    <string name="nextmonth">下个月</string>
+    <string name="next">后翻</string>
+    <string name="previous">前翻</string>
+    <string name="notnowbutton">暂不更改</string>
+    <string name="continuebutton">确认更改</string>
+    <string name="toclipboard">密码已复制到剪切板</string>
+    <string name="allownum">包含数字</string>
+    <string name="allowletter">包含字母</string>
+    <string name="allowdilemma">包含-.</string>
+    <string name="feedback">问题反馈</string>
+    <string name="undo_string">撤销</string>
+    <string name="hasdeleted">该密码已删除</string>
+    <string name="passwordlength">密码长度</string>
+    <string name="RateUs">赏个好评</string>
+    <string name="invaildpasswordsfile">请选择正确的密码文件</string>
+</resources>
+

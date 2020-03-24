@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Monthly Codebook</string>
+    <string name="tutorial_text">"Tutorial: \n1. The User Key is a string used to make different password.\n2. The Object Name is the device or website name which password you want to remember such as google or yandex.\n3. WARNING: Please notice the password will change automatically as the month over.you can click the below button to switch month in order to view other month's password."</string>
+    <string name="passwordview">Password will show here</string>
+    <string name="userkey">User key</string>
+    <string name="devicename">Website Name</string>
+    <string name="warning">"The Object Name Field shouldn't be empty,\nplease see the tutorial."</string>
+    <string name="list_navigation">Passwords</string>
+    <string name="add_navigation">Add</string>
+    <string name="settings_navigation">Settings</string>
+    <string name="action_settings">Save</string>
+    <string name="action_nextsettings">See this month password</string>
+    <string name="passwordupdated_header">The lunar password has been updated\nThe previous password is</string>
+    <string name="passwordupdated_middle">New password is</string>
+    <string name="passwordupdated_footer">Click continue to admit the new password,</string>
+    <string name="more">More</string>
+    <string name="delete">Delete selected</string>
+    <string name="about">About</string>
+    <string name="importpasswords">Import passwords</string>
+    <string name="exportpasswords">Export passwords</string>
+    <string name="appversion">Version: 1.1.0</string>
+    <string name="LastTimeUsed">Last used time:   </string>
+    <string name="passwordsview">View Password</string>
+    <string name="currentmonth">This Month</string>
+    <string name="previousmonth">Previous Month</string>
+    <string name="nextmonth">Next Month</string>
+    <string name="next">" Next"</string>
+    <string name="previous">"Past "</string>
+    <string name="notnowbutton">Not Now</string>
+    <string name="continuebutton">Continue</string>
+    <string name="toclipboard">Password has been copied to clipboard</string>
+    <string name="allownum">Allow number</string>
+    <string name="allowletter">Allow letter</string>
+    <string name="allowdilemma">Allow - and .</string>
+    <string name="feedback">Feedback</string>
+    <string name="undo_string">UNDO</string>
+    <string name="hasdeleted">Deleted item</string>
+    <string name="passwordlength">Password length</string>
+    <string name="RateUs">Rate the app</string>
+    <string name="invaildpasswordsfile">Please choose the correct file</string>
+</resources>

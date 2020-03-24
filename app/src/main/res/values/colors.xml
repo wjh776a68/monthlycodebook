@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimary">#204969</color>
+    <color name="colorPrimaryDark">#000000</color>
+    <color name="colorAccent">#FF2929</color>
+    <color name="colorFont">#030303</color>
+    <color name="colorFontHint">#7E030303</color>
+
+    <color name="colorbuttonside">#3b9a9c</color>
+    <color name="colorbuttonmain">#dadada</color>
+
+
+
+    <color name="colorPrimary_dark">#1B1B1B</color>
+    <color name="colorPrimaryDark_dark">#000000</color>
+    <color name="colorAccent_dark">#911212</color>
+    <color name="colorFont_dark">#CFCBCB</color>
+    <color name="colorFontHint_dark">#7AC7C4C4</color>
+
+    <color name="bottom_navigation">#C3CFCD</color>
+    <color name="tab_checked">#3D4949</color>
+    <color name="tab_unchecked">#9C9C9C</color>
+</resources>
+
+
